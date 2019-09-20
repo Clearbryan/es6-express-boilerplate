@@ -1,5 +1,5 @@
 # es6-express-boilerplate
-ES6 Express Web Server
+ES6 Express Web Server. Supports classes, mongodb configured, user registration, verification and login
 # usage
 clone or download package
 run npm install
